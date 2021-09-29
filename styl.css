@@ -1,0 +1,24 @@
+body {color:black;
+  background-color:#fff8dc;
+}
+
+h1{
+    text-align: center;
+}
+ul li{
+    padding-left: 30px;
+    display: inline;
+}
+hr{
+    border: none;
+    background-color: #ebdef0;
+    height: 5px;
+    color:#F08080;
+}
+
+a:visited{
+    color: palevioletred;
+}
+a:hover{
+    color:black;
+}
