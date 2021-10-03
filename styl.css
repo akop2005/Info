@@ -9,6 +9,10 @@ ul li{
     padding-left: 30px;
     display: inline;
 }
+ol li{
+    display: inline-block;
+    padding: 90px;
+}
 hr{
     border: none;
     background-color: #ebdef0;
@@ -21,4 +25,8 @@ a:visited{
 }
 a:hover{
     color:black;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
 }
